@@ -159,6 +159,7 @@ see a compiler error because `TestBicycle` can't access the private members of `
 <tr>
 
 <td>
+
 <pre>
 <code>
 
@@ -169,9 +170,11 @@ public class Bicycle {
 
 </code>
 </pre>
+
 </td>
 
 <td>
+
 <pre>
 <code>
 
@@ -185,6 +188,7 @@ public class TestBicycle {
 
 </code>
 </pre>
+
 </td>
 
 </tr>
